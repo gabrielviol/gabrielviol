@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielviol&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor web Junior
+- 🔥 Desenvolvedor front-end Junior
 
 - 🔭 Atualmente atuo como tecnico em informatica na [Xerografia](https://xerografia.com.br/)
 
