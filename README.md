@@ -8,7 +8,7 @@
 
 - 👯 Estou em busca de fazer parte de um time de desenvolvedores
 
-- 🌱 Aprendendo sobre ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; no momento
+- 🌱 Aprendendo sobre ![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=react)&nbsp; no momento
 
 - 📫 Discord GabrielViol#1549
 
