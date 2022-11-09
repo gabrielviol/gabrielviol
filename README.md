@@ -34,4 +34,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-Outlook-006bed?style=flat-square&logo=outlook&logoColor=white&link=mailto:outlook)](mailto:gabrielviol00@hotmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/gabrielviol?label=follow&style=social)](https://github.com/gabrielviol)
 
-![Snake animation](https://github.com/gabrielviol/gabrielviol/blob/output/github-contribution-grid-snake.svg)
