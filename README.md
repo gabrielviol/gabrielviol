@@ -1,56 +1,35 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Sou o Gabriel</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielviol&color=yellow" alt="Profile views" /> </p>
+![](https://komarev.com/ghpvc/?username=gabrielviol&color=006bed)
 
-- 🔥 Desenvolvedor front-end Junior
+### Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Welcome to my profile
 
-- 🔭 Atualmente atuo como tecnico em informatica na [Xerografia](https://xerografia.com.br/)
+> People can move the world, just act.
 
-- 👯 Estou em busca de fazer parte de um time de desenvolvedores
+<p align="left"> 
+  I'm Gabriel, graduate in science computer and working to be a front end developer.
+  
+  I have good knowledge of Javascript and nowadays delving deeper into the world in React.js.
+  
+  I love meeting people and creating connections.
+  <br/>
+  <hr>
+  
+### 🚀 &nbsp;Tech Stack
 
-- 🌱 Aprendendo sobre ![Next.js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=react)&nbsp; no momento
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-- 📫 Discord GabrielViol#1549
 
-- 💬 Gosto de falar sobre investimentos
-
-- ⚡ Fun fact **Global in Cs:Go 😜**
-
-- 😄 Apelidos **Gabreu**
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gabrielviol&show_icons=true&theme=vision-friendly-dark" alt="gabrielviol's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielviol&layout=compact&theme=vision-friendly-dark" alt="gabrielviol's most languages"/>
-</p>
-
-<!--
-**gabrielviol/gabrielviol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <hr> 
+  
+### 💬 Talk to me!
+  
+[![Linkedin: Gabriel Oliveira](https://img.shields.io/badge/-GabrielOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielviol/)](https://www.linkedin.com/in/gabrielviol/)
+[![Gmail Badge](https://img.shields.io/badge/-Outlook-006bed?style=flat-square&logo=outlook&logoColor=white&link=mailto:SEU-EMAIL)](mailto:gabrielviol@hotmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/gabrielviol?label=follow&style=social)](https://github.com/gabrielviol)
