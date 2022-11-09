@@ -31,5 +31,6 @@
 ### 💬 Talk to me!
   
 [![Linkedin: Gabriel Oliveira](https://img.shields.io/badge/-GabrielOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielviol/)](https://www.linkedin.com/in/gabrielviol/)
-[![Gmail Badge](https://img.shields.io/badge/-Outlook-006bed?style=flat-square&logo=outlook&logoColor=white&link=mailto:SEU-EMAIL)](mailto:gabrielviol@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Outlook-006bed?style=flat-square&logo=outlook&logoColor=white&link=mailto:outlook)](mailto:gabrielviol00@hotmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/gabrielviol?label=follow&style=social)](https://github.com/gabrielviol)
+
