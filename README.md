@@ -7,11 +7,11 @@
 > People can move the world, just act.
 
 <p align="left"> 
-  I'm Gabriel, graduate in science computer and working to be a front end developer.
-  
-  I have good knowledge of Javascript and nowadays delving deeper into the world in React.js.
-  
-  I love meeting people and creating connections.
+  I am a professional with a degree in Computer Science, currently working as a front-end developer specialized in React.js.
+
+  In pursuit of my best self every day, always seeking to stay updated and evolve.
+
+  We all appreciate compliments, but it's criticism that makes us think and grow, so if you have one, don't hesitate to share it!
   <br/>
   <hr>
   
