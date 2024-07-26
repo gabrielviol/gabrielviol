@@ -12,6 +12,7 @@
   In pursuit of my best self every day, always seeking to stay updated and evolve.
 
   We all appreciate compliments, but it's criticism that makes us think and grow, so if you have one, don't hesitate to share it!
+  
   <br/>
   <hr>
   
