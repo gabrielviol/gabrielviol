@@ -7,8 +7,11 @@
 > Developer Full Stack
 
 <p align="left"> 
-Hello, I'm Gabriel Oliveira, a Full Stack developer with a focus on front-end and expertise in React.js. With a degree in Computer Science, I have experience in building comprehensive and efficient solutions, from designing intuitive interfaces to developing robust back-end functionalities. I am always seeking new technologies and challenges to enhance my skills. If you're interested in collaborating on projects or discussing technology, feel free to reach out!
-  
+  Hello, I'm Gabriel Oliveira, a Full Stack developer with a focus on front-end and expertise in React.js.
+
+  With a degree in Computer Science, I have experience in building comprehensive and efficient solutions, from designing intuitive interfaces to developing robust back-end functionalities.
+
+  I am always seeking new technologies and challenges to enhance my skills. If you're interested in collaborating on projects or discussing technology, feel free to reach out!
   <br/>
   <hr>
   
