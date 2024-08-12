@@ -4,7 +4,7 @@
 
 ### Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Welcome to my profile
 
-> People can move the world, just act.
+> Developer Full Stack
 
 <p align="left"> 
   I am a professional with a degree in Computer Science, currently working as a front-end developer specialized in React.js.
