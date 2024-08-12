@@ -13,6 +13,7 @@
 
   I am always seeking new technologies and challenges to enhance my skills. If you're interested in collaborating on projects or discussing technology, feel free to reach out!
   <br/>
+
   <hr>
   
 ### 🚀 &nbsp;Tech Stack
@@ -24,6 +25,8 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielviol&layout=compact&theme=dark)
 
 
   <hr> 
